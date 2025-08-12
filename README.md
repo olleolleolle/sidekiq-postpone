@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/marshall-lee/sidekiq-postpone.svg?branch=master)](https://travis-ci.org/marshall-lee/sidekiq-postpone)
+[![RSpec](https://github.com/marshall-lee/sidekiq-postpone/actions/workflows/rspec.yml/badge.svg)](https://github.com/marshall-lee/sidekiq-postpone/actions/workflows/rspec.yml)
 
 # sidekiq-postpone
 
